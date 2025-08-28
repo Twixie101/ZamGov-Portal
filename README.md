@@ -14,18 +14,6 @@ Responsive Design – Mobile-friendly and works across all devices.
 
 Interactive UI – Hero section, cards, buttons, and hover effects for modern feel.
 
-🎨 Screenshots
-
-
-Hero section with welcome message and call-to-action.
-
-
-Interactive cards showcasing services and resources.
-
-🚀 Live Demo
-
-Check out the live demo of the portal here:
-🌐 ZamGov Portal Demo
 
 🛠️ Technologies Used
 
